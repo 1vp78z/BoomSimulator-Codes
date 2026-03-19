@@ -18,5 +18,11 @@
       "ObjectName": "Cash",
       "Amount": 500
     }
-  ]
+  ],
+  {
+      "Code": "BOOM!",
+      "RewardType": "Tool",
+      "ObjectName": "TNT",
+      "Amount": null
+  }
 }
