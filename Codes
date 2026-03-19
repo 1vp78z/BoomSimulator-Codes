@@ -22,7 +22,7 @@
   {
       "Code": "BOOM!",
       "RewardType": "Tool",
-      "ObjectName": "TNT",
+      "ObjectName": "Minigun",
       "Amount": null
   }
 }
