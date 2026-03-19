@@ -2,7 +2,7 @@
   "Codes": [
     {
       "Code": "EmployeeTestCode99942@ImpossibleCrack33Developer1@@@#12312",
-      "RewardType": "Object",
+      "RewardType": "Tool",
       "ObjectName": "StarterSword",
       "Currency": null
     },
@@ -14,8 +14,8 @@
     },
     {
       "Code": "RELEASE",
-      "RewardType": "Cash",
-      "ObjectName": null,
+      "RewardType": "Currency",
+      "ObjectName": "Cash",
       "Currency": 500
     }
   ]
