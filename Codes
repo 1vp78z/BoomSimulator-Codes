@@ -17,12 +17,12 @@
       "RewardType": "Currency",
       "ObjectName": "Cash",
       "Amount": 500
-    }
-    ],
+    },
     {
       "Code": "BOOM!",
       "RewardType": "Tool",
       "ObjectName": "Minigun",
       "Amount": null
     }
+  ]
 }
