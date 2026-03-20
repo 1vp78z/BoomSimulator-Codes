@@ -4,25 +4,25 @@
       "Code": "EmployeeTestCode99942@ImpossibleCrack33Developer1@@@#12312",
       "RewardType": "Tool",
       "ObjectName": "StarterSword",
-      "Amount": null
+      "Currency": null
     },
     {
       "Code": "EmployeeTestCode99942@ImpossibleCrack33Developer1@@@#12312",
       "RewardType": "Currency",
       "ObjectName": null,
-      "Amount": 100
+      "Currency": 100
     },
     {
       "Code": "RELEASE",
       "RewardType": "Currency",
       "ObjectName": "Cash",
-      "Amount": 500
+      "Currency": 500
     },
     {
       "Code": "BOOM!",
       "RewardType": "Tool",
-      "ObjectName": "Minigun",
-      "Amount": null
+      "ObjectName": "Rocket",
+      "Currency": null
     }
   ]
 }
